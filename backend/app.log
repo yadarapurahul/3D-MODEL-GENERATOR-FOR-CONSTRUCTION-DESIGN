@@ -1,0 +1,77 @@
+2025-05-20 23:39:49,029 DEBUG: searching for blender in: C:\WINDOWS\System32\Wbem;C:\Program Files\nodejs\;C:\Users\yadar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Users\yadar\AppData\Local\Programs\Python\Python312\Scripts\;C:\WINDOWS\system32;C:\Users\yadar\AppData\Local\Programs\Python\Python312\;c:\Users\yadar\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\scripts\noConfigScripts;C:\WINDOWS;C:\Users\yadar\AppData\Local\Microsoft\WindowsApps;C:\Users\yadar\Blueprint\backend\venv\Scripts;c:\Users\yadar\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\
+2025-05-20 23:39:49,029 DEBUG: falling back to hashlib hashing: `pip install xxhash`for 50x faster cache checks
+2025-05-20 23:39:49,180 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 23:39:49,180 INFO: [33mPress CTRL+C to quit[0m
+2025-05-20 23:39:49,181 INFO:  * Restarting with stat
+2025-05-20 23:39:49,544 DEBUG: searching for blender in: C:\WINDOWS\system32;C:\Program Files\Git\cmd;C:\Users\yadar\AppData\Local\Programs\Python\Python312\;C:\Users\yadar\Blueprint\backend\venv\Scripts;C:\WINDOWS\System32\Wbem;C:\Users\yadar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\nodejs\;c:\Users\yadar\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\scripts\noConfigScripts;C:\Users\yadar\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\yadar\AppData\Local\Programs\Python\Python312\Scripts\;c:\Users\yadar\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\WINDOWS
+2025-05-20 23:39:49,557 DEBUG: falling back to hashlib hashing: `pip install xxhash`for 50x faster cache checks
+2025-05-20 23:39:49,684 WARNING:  * Debugger is active!
+2025-05-20 23:39:49,684 INFO:  * Debugger PIN: 130-318-565
+2025-05-20 23:40:00,100 INFO: 127.0.0.1 - - [20/May/2025 23:40:00] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-20 23:40:12,748 INFO: 127.0.0.1 - - [20/May/2025 23:40:12] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-20 23:40:13,939 INFO: User logged in: username123@gmail.com
+2025-05-20 23:40:13,939 INFO: 127.0.0.1 - - [20/May/2025 23:40:13] "POST /api/login HTTP/1.1" 200 -
+2025-05-20 23:40:13,952 INFO: 127.0.0.1 - - [20/May/2025 23:40:13] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-20 23:40:14,269 INFO: 127.0.0.1 - - [20/May/2025 23:40:14] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-20 23:40:14,269 INFO: 127.0.0.1 - - [20/May/2025 23:40:14] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-20 23:40:14,580 INFO: 127.0.0.1 - - [20/May/2025 23:40:14] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-20 23:52:26,220 INFO:  * Detected change in 'C:\\Users\\yadar\\Blueprint\\backend\\auth.py', reloading
+2025-05-20 23:52:26,330 INFO:  * Restarting with stat
+2025-05-20 23:52:26,853 DEBUG: searching for blender in: C:\WINDOWS;C:\WINDOWS\System32\OpenSSH\;C:\Users\yadar\AppData\Local\Programs\Python\Python312\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\Wbem;C:\Users\yadar\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\yadar\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\scripts\noConfigScripts;C:\WINDOWS\system32;C:\Users\yadar\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;c:\Users\yadar\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\yadar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\yadar\Blueprint\backend\venv\Scripts
+2025-05-20 23:52:26,853 DEBUG: falling back to hashlib hashing: `pip install xxhash`for 50x faster cache checks
+2025-05-20 23:52:26,971 WARNING:  * Debugger is active!
+2025-05-20 23:52:26,971 INFO:  * Debugger PIN: 130-318-565
+2025-05-20 23:52:55,717 INFO: 127.0.0.1 - - [20/May/2025 23:52:55] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-20 23:52:56,262 INFO: User logged in: username123@gmail.com
+2025-05-20 23:52:56,262 INFO: 127.0.0.1 - - [20/May/2025 23:52:56] "POST /api/login HTTP/1.1" 200 -
+2025-05-20 23:52:56,274 INFO: 127.0.0.1 - - [20/May/2025 23:52:56] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-20 23:52:56,564 INFO: 127.0.0.1 - - [20/May/2025 23:52:56] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-20 23:52:56,580 INFO: 127.0.0.1 - - [20/May/2025 23:52:56] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-20 23:52:56,898 INFO: 127.0.0.1 - - [20/May/2025 23:52:56] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:06:21,124 DEBUG: searching for blender in: C:\Users\yadar\Blueprint\backend\venv\Scripts;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS;C:\Users\yadar\AppData\Local\Programs\Python\Python312\;C:\Users\yadar\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\yadar\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\WINDOWS\System32\Wbem;C:\Program Files\nodejs\;C:\Users\yadar\AppData\Local\Programs\Python\Python312\Scripts\;c:\Users\yadar\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\scripts\noConfigScripts;C:\Users\yadar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd
+2025-05-21 00:06:21,124 DEBUG: falling back to hashlib hashing: `pip install xxhash`for 50x faster cache checks
+2025-05-21 00:06:21,260 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 00:06:21,260 INFO: [33mPress CTRL+C to quit[0m
+2025-05-21 00:06:21,271 INFO:  * Restarting with stat
+2025-05-21 00:06:21,653 DEBUG: searching for blender in: C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\yadar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\yadar\Blueprint\backend\venv\Scripts;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\yadar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\yadar\AppData\Local\Programs\Python\Python312\;c:\Users\yadar\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\scripts\noConfigScripts;c:\Users\yadar\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\Wbem;C:\Users\yadar\AppData\Local\Microsoft\WindowsApps
+2025-05-21 00:06:21,653 DEBUG: falling back to hashlib hashing: `pip install xxhash`for 50x faster cache checks
+2025-05-21 00:06:21,769 WARNING:  * Debugger is active!
+2025-05-21 00:06:21,776 INFO:  * Debugger PIN: 130-318-565
+2025-05-21 00:06:31,489 INFO: 127.0.0.1 - - [21/May/2025 00:06:31] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-21 00:06:32,020 INFO: User logged in: username123@gmail.com
+2025-05-21 00:06:32,020 INFO: 127.0.0.1 - - [21/May/2025 00:06:32] "POST /api/login HTTP/1.1" 200 -
+2025-05-21 00:06:32,028 INFO: 127.0.0.1 - - [21/May/2025 00:06:32] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:06:32,337 INFO: 127.0.0.1 - - [21/May/2025 00:06:32] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:06:32,337 INFO: 127.0.0.1 - - [21/May/2025 00:06:32] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:06:32,652 INFO: 127.0.0.1 - - [21/May/2025 00:06:32] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:32:59,144 INFO:  * Detected change in 'C:\\Users\\yadar\\Blueprint\\backend\\auth.py', reloading
+2025-05-21 00:32:59,285 INFO:  * Restarting with stat
+2025-05-21 00:32:59,693 WARNING:  * Debugger is active!
+2025-05-21 00:32:59,693 INFO:  * Debugger PIN: 130-318-565
+2025-05-21 00:33:13,138 INFO: 127.0.0.1 - - [21/May/2025 00:33:13] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-21 00:33:13,675 INFO: User logged in: username123@gmail.com
+2025-05-21 00:33:13,675 INFO: 127.0.0.1 - - [21/May/2025 00:33:13] "POST /api/login HTTP/1.1" 200 -
+2025-05-21 00:33:13,681 INFO: 127.0.0.1 - - [21/May/2025 00:33:13] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:33:13,984 INFO: 127.0.0.1 - - [21/May/2025 00:33:13] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:33:13,984 INFO: 127.0.0.1 - - [21/May/2025 00:33:13] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:33:14,302 INFO: 127.0.0.1 - - [21/May/2025 00:33:14] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:33:24,864 INFO: 127.0.0.1 - - [21/May/2025 00:33:24] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-21 00:33:25,778 INFO: User logged in: username123@gmail.com
+2025-05-21 00:33:25,778 INFO: 127.0.0.1 - - [21/May/2025 00:33:25] "POST /api/login HTTP/1.1" 200 -
+2025-05-21 00:33:25,778 INFO: 127.0.0.1 - - [21/May/2025 00:33:25] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:33:26,102 INFO: 127.0.0.1 - - [21/May/2025 00:33:26] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:33:26,103 INFO: 127.0.0.1 - - [21/May/2025 00:33:26] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:33:26,417 INFO: 127.0.0.1 - - [21/May/2025 00:33:26] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:35:02,145 INFO: 127.0.0.1 - - [21/May/2025 00:35:02] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-05-21 00:35:02,681 INFO: User logged in: username123@gmail.com
+2025-05-21 00:35:02,681 INFO: 127.0.0.1 - - [21/May/2025 00:35:02] "POST /api/login HTTP/1.1" 200 -
+2025-05-21 00:35:02,693 INFO: 127.0.0.1 - - [21/May/2025 00:35:02] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:35:03,009 INFO: 127.0.0.1 - - [21/May/2025 00:35:03] "OPTIONS /api/dashboard HTTP/1.1" 200 -
+2025-05-21 00:35:03,009 INFO: 127.0.0.1 - - [21/May/2025 00:35:03] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:35:03,327 INFO: 127.0.0.1 - - [21/May/2025 00:35:03] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 422 -
+2025-05-21 00:44:00,402 INFO:  * Detected change in 'C:\\Users\\yadar\\Blueprint\\backend\\database.py', reloading
+2025-05-21 00:44:00,485 INFO:  * Restarting with stat
+2025-05-21 01:13:49,306 INFO:  * Restarting with stat
+2025-05-21 01:23:58,870 INFO:  * Restarting with stat
